@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://whiteoutctrl.io)
+<!--[![MasterHead]()](https://whiteoutctrl.io)-->
 <h1 align="center">Hi 👋, I'm Johnson Joy</h1>
 <h3 align="center">A passionate developer from Manglore</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
