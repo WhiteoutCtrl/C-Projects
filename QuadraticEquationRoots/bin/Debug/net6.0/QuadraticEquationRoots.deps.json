@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "QuadraticEquationRoots/1.0.0": {
+        "runtime": {
+          "QuadraticEquationRoots.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuadraticEquationRoots/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

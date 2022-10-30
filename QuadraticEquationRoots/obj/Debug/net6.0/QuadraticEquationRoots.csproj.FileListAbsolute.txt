@@ -1,0 +1,15 @@
+E:\C# basic projects\C-Projects\QuadraticEquationRoots\bin\Debug\net6.0\QuadraticEquationRoots.exe
+E:\C# basic projects\C-Projects\QuadraticEquationRoots\bin\Debug\net6.0\QuadraticEquationRoots.deps.json
+E:\C# basic projects\C-Projects\QuadraticEquationRoots\bin\Debug\net6.0\QuadraticEquationRoots.runtimeconfig.json
+E:\C# basic projects\C-Projects\QuadraticEquationRoots\bin\Debug\net6.0\QuadraticEquationRoots.dll
+E:\C# basic projects\C-Projects\QuadraticEquationRoots\bin\Debug\net6.0\QuadraticEquationRoots.pdb
+E:\C# basic projects\C-Projects\QuadraticEquationRoots\obj\Debug\net6.0\QuadraticEquationRoots.csproj.AssemblyReference.cache
+E:\C# basic projects\C-Projects\QuadraticEquationRoots\obj\Debug\net6.0\QuadraticEquationRoots.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# basic projects\C-Projects\QuadraticEquationRoots\obj\Debug\net6.0\QuadraticEquationRoots.AssemblyInfoInputs.cache
+E:\C# basic projects\C-Projects\QuadraticEquationRoots\obj\Debug\net6.0\QuadraticEquationRoots.AssemblyInfo.cs
+E:\C# basic projects\C-Projects\QuadraticEquationRoots\obj\Debug\net6.0\QuadraticEquationRoots.csproj.CoreCompileInputs.cache
+E:\C# basic projects\C-Projects\QuadraticEquationRoots\obj\Debug\net6.0\QuadraticEquationRoots.dll
+E:\C# basic projects\C-Projects\QuadraticEquationRoots\obj\Debug\net6.0\refint\QuadraticEquationRoots.dll
+E:\C# basic projects\C-Projects\QuadraticEquationRoots\obj\Debug\net6.0\QuadraticEquationRoots.pdb
+E:\C# basic projects\C-Projects\QuadraticEquationRoots\obj\Debug\net6.0\QuadraticEquationRoots.genruntimeconfig.cache
+E:\C# basic projects\C-Projects\QuadraticEquationRoots\obj\Debug\net6.0\ref\QuadraticEquationRoots.dll
